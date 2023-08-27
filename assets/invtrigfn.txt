@@ -1,0 +1,43 @@
+INVERSE TRIGONOMETRIC FUNCTIONS
+
+1. Introduction to Inverse Trigonometric Functions:
+   - Inverse trigonometric functions are used to find angles for given trigonometric ratios.
+   - They are denoted as sin^(-1)x, cos^(-1)x, tan^(-1)x, etc.
+   - The principal value of these functions lies within specific domains.
+
+2. Principal Values and Ranges:
+   - The principal value of an inverse trigonometric function lies within a specific range:
+     - sin^(-1)x: [-π/2, π/2]
+     - cos^(-1)x: [0, π]
+     - tan^(-1)x: (-π/2, π/2)
+   - These ranges ensure that each value of x corresponds to a unique value of the inverse trigonometric function.
+
+3. Properties of Inverse Trigonometric Functions:
+   - Domain and range restrictions for the inverse trigonometric functions ensure one-to-one correspondence.
+   - Symmetry properties: sin^(-1)(-x) = -sin^(-1)x, cos^(-1)(-x) = π - cos^(-1)x, tan^(-1)(-x) = -tan^(-1)x.
+   - Relationships like sin(sin^(-1)x) = x, cos(cos^(-1)x) = x, and tan(tan^(-1)x) = x.
+
+4. Trigonometric Equations and Inverse Trigonometric Functions:
+   - Inverse trigonometric functions are used to solve equations involving trigonometric ratios.
+
+5. Evaluation of Inverse Trigonometric Functions:
+   - Values of inverse trigonometric functions can be found using geometric reasoning, graphs, or calculators.
+   - Special values like sin^(-1)(1/2) = π/6, cos^(-1)(1/2) = π/3, tan^(-1)(1) = π/4, etc.
+
+6. Derivatives of Inverse Trigonometric Functions:
+   - Derivatives of inverse trigonometric functions are essential in calculus.
+   - Example derivatives: (d/dx)(sin^(-1)x) = 1/√(1 - x^2), (d/dx)(cos^(-1)x) = -1/√(1 - x^2), (d/dx)(tan^(-1)x) = 1/(1 + x^2).
+
+7. Integration of Inverse Trigonometric Functions:
+   - Integration involving inverse trigonometric functions can be solved using techniques like substitution.
+
+8. Application in Solving Triangles:
+   - Inverse trigonometric functions are used to solve triangles when sides and angles are given.
+
+9. Inverse Trigonometric Function Identities:
+   - Relationships like sin^(-1)x + cos^(-1)x = π/2, tan^(-1)x + tan^(-1)(1/x) = π/4 are useful in solving problems.
+
+10. Trigonometric Equations with Inverse Trigonometric Functions:
+    - Some equations can be solved using properties of inverse trigonometric functions.
+
+Remember, it's important to understand the concepts thoroughly and practice solving various problems to grasp the nuances of this chapter effectively.

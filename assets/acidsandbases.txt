@@ -1,0 +1,46 @@
+Acids release H+; taste sour; turn litmus red. Bases release OH-; feel slippery; turn litmus blue. React in neutralization.
+
+1. Acids:
+Acids are substances that release hydrogen ions (H+) when dissolved in water.
+Properties of acids include sour taste, ability to turn blue litmus paper red, and ability to react with metals to release hydrogen gas.
+Examples: Hydrochloric acid (HCl), sulfuric acid (H2SO4), acetic acid (CH3COOH).
+
+2. Bases:
+Bases are substances that release hydroxide ions (OH-) when dissolved in water.
+Properties of bases include bitter taste, slippery feel, ability to turn red litmus paper blue, and ability to neutralize acids.
+Examples: Sodium hydroxide (NaOH), potassium hydroxide (KOH), ammonia (NH3).
+
+3. Arrhenius Theory:
+Acid according to Arrhenius: Substance that produces H+ ions in water.
+Base according to Arrhenius: Substance that produces OH- ions in water.
+
+4. Bronsted-Lowry Theory:
+Acid according to Bronsted-Lowry: Substance that donates a proton (H+).
+Base according to Bronsted-Lowry: Substance that accepts a proton.
+
+5. Lewis Theory:
+Acid according to Lewis: Substance that accepts an electron pair.
+Base according to Lewis: Substance that donates an electron pair.
+
+6. pH Scale:
+Measures the acidity or alkalinity of a solution.
+pH values range from 0 to 14.
+pH < 7 indicates acidic solutions, pH > 7 indicates basic (alkaline) solutions, pH = 7 indicates neutral.
+
+7. Neutralization Reaction:
+Reaction between an acid and a base to form water and a salt.
+H+ from the acid combines with OH- from the base to form water (H2O).
+Example: HCl + NaOH → NaCl + H2O.
+
+8. Strong and Weak Acids/Bases:
+Strong acids/bases ionize completely in water.
+Weak acids/bases ionize only partially.
+Example of strong acids: HCl, H2SO4; strong bases: NaOH, KOH.
+
+9. Buffer Solutions:
+Solutions that resist drastic changes in pH when an acid or base is added.
+Contains a weak acid and its conjugate base, or a weak base and its conjugate acid.
+
+10. Indicators:
+Substances that change color in the presence of acids or bases.
+Litmus paper, phenolphthalein, and universal indicator are commonly used indicators.

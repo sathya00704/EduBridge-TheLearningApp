@@ -1,0 +1,5 @@
+Electrolytes conduct electricity due to ion movement.
+Electrochemical cells convert chemical energy to electrical energy.
+Faraday's laws govern the relationship between mass and charge in electrolysis.
+Standard hydrogen electrode (SHE) is the reference electrode.
+Nernst equation relates cell potential to concentration.

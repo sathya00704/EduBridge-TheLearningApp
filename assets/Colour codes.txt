@@ -1,0 +1,13 @@
+Colour codes:
+
+PRIMARY COLOURS:
+Dark Blue (Background) - #213555
+Light Blue - #4F709C
+Light Brown - #D8C4B6
+Light Yellow - #F5EFE7
+
+SECONDARY COLOURS:
+Light Grey - #9A9A9A
+Black - #000000
+White - #FFFFFF
+Red - #EF2B2B

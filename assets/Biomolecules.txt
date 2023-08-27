@@ -1,0 +1,54 @@
+BIOMOLECULES
+
+1. Introduction to Biomolecules:
+   - Biomolecules are molecules that are essential for life processes and are found in living organisms.
+   - They can be categorized into four major types: carbohydrates, proteins, lipids, and nucleic acids.
+
+2. Carbohydrates:
+   - Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen.
+   - They serve as energy sources and structural components.
+   - Monosaccharides are the simplest carbohydrates (glucose, fructose, galactose).
+   - Disaccharides consist of two monosaccharide units (sucrose, lactose, maltose).
+   - Polysaccharides are complex carbohydrates made of multiple monosaccharide units (starch, cellulose, glycogen).
+
+3. Proteins:
+   - Proteins are complex macromolecules composed of amino acids.
+   - They have diverse functions: enzymes, hormones, structural components, etc.
+   - The primary structure of a protein is the sequence of amino acids.
+   - Secondary structure involves folding into alpha helices and beta sheets.
+   - Tertiary structure is the overall three-dimensional arrangement.
+   - Quaternary structure is the arrangement of multiple protein subunits.
+
+4. Lipids:
+   - Lipids are hydrophobic molecules like fats, oils, and phospholipids.
+   - They are used for energy storage, insulation, and cell membrane structure.
+   - Triglycerides consist of glycerol and three fatty acid chains.
+   - Phospholipids are crucial components of cell membranes.
+   - Steroids are a type of lipid, including cholesterol and hormones.
+
+5. Nucleic Acids:
+   - Nucleic acids include DNA and RNA, which store and transmit genetic information.
+   - Nucleotides are the building blocks of nucleic acids.
+   - DNA has a double-helix structure, formed by complementary base pairing (A-T, C-G).
+   - RNA is involved in protein synthesis and comes in various types (mRNA, tRNA, rRNA).
+
+6. Enzymes:
+   - Enzymes are biological catalysts that speed up chemical reactions.
+   - They are highly specific and work under mild conditions.
+   - Enzymes lower the activation energy required for a reaction.
+   - Enzyme activity can be affected by factors like temperature, pH, and substrate concentration.
+
+7. Hormones:
+   - Hormones are chemical messengers that regulate various physiological processes.
+   - Examples include insulin, adrenaline, estrogen, and testosterone.
+   - Hormones can be proteins, peptides, or steroids.
+
+8. Nucleic Acid Replication and Protein Synthesis:
+   - DNA replication ensures genetic continuity during cell division.
+   - Transcription is the process of making mRNA from DNA.
+   - Translation involves converting mRNA into protein using tRNA and ribosomes.
+
+9. Biochemical Techniques:
+   - Techniques like chromatography, electrophoresis, and spectrophotometry are used to study biomolecules.
+
+These are the key points from the "Biomolecules" chapter.

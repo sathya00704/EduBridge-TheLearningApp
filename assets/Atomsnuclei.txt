@@ -1,0 +1,41 @@
+ATOMS & NUCLEI
+
+ATOMS:
+- Atoms are the basic building blocks of matter. They consist of a nucleus at the center and electrons orbiting around it.
+- The nucleus is composed of protons (positively charged) and neutrons (neutral).
+- Electrons are negatively charged and are arranged in energy levels or shells around the nucleus.
+- The atomic number (Z) of an element is the number of protons in its nucleus, defining the element's identity.
+- The mass number (A) of an atom is the sum of protons and neutrons in the nucleus.
+- Isotopes are atoms of the same element with the same number of protons but different numbers of neutrons.
+
+BOHR'S ATOMIC MODEL:
+- Proposed by Niels Bohr, it explained the stability of atoms using quantized energy levels.
+- Electrons move in discrete orbits with fixed energies, corresponding to specific distances from the nucleus.
+- Electrons can jump between energy levels by absorbing or emitting energy in the form of photons.
+
+WAVE MECHANICAL MODEL (QUANTUM MECHANICS):
+- Proposed by Schrödinger and others, it describes electrons as wave-like entities rather than distinct orbits.
+- Wave functions (ψ) describe the probability distribution of finding an electron in a specific region around the nucleus.
+- Orbitals are regions where the probability of finding an electron is relatively high.
+- Quantum numbers (n, l, m, s) define the energy level, shape, orientation, and spin of electrons.
+
+NUCLEI:
+- The nucleus is held together by the strong nuclear force, which overcomes the electrostatic repulsion between protons.
+- The nuclear radius is much smaller than the atomic radius due to the concentration of mass in the nucleus.
+- Radioactive decay involves the spontaneous emission of radiation by unstable nuclei to attain stability.
+
+RADIOACTIVITY:
+- Radioactive decay can be alpha (α), beta (β), or gamma (γ) decay.
+- Alpha particles consist of two protons and two neutrons; they have a positive charge and low penetration.
+- Beta particles are high-speed electrons (β-) or positrons (β+); they have greater penetration than alpha particles.
+- Gamma rays are high-energy photons; they have no charge and high penetration.
+
+NUCLEAR REACTIONS:
+- Nuclear reactions involve changes in the nucleus of an atom, leading to the formation of new elements.
+- Mass-energy equivalence is described by Einstein's equation E=mc², where E is energy, m is mass, and c is the speed of light.
+
+NUCLEAR FISSION AND FUSION:
+- Nuclear fission is the splitting of a heavy nucleus into smaller nuclei, releasing a large amount of energy. It's the process used in nuclear reactors and atomic bombs.
+- Nuclear fusion is the combining of light nuclei to form a heavier nucleus, releasing even greater energy. It powers stars, including the Sun.
+
+

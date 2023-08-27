@@ -1,0 +1,48 @@
+CURRENT ELECTRICITY
+
+1. Electric Current and Electric Charge:
+- Electric current is the flow of electric charge through a conductor.
+- Electric charge is quantized, with the elementary charge being the charge of an electron.
+- Current is defined as the rate of flow of charge: I = dq/dt, where (I is current, dq is the infinitesimal charge, and dt is the infinitesimal time.
+
+2. Ohm's Law and Resistance:
+- Ohm's Law relates current, voltage, and resistance: V = IR, where V is voltage, I is current, and R is resistance.
+- Resistance is the property of a material to oppose the flow of electric current.
+- The resistance of a conductor depends on its dimensions, material, and temperature.
+- The unit of resistance is the ohm.
+
+3. Electrical Resistivity and Conductivity:
+- Resistivity (rho) is a material property that determines its resistance for a given length and cross-sectional area.
+- Conductivity (sigma) is the reciprocal of resistivity: (sigma = 1\rho).
+
+4. Factors Affecting Resistance:
+- Length and cross-sectional area: Resistance is directly proportional to length and inversely proportional to cross-sectional area 
+- Temperature: Generally, resistance increases with temperature for most conductors.
+- Temperature coefficient of resistance: (alpha) is the fractional change in resistance per degree Celsius: 
+alpha = 1/R * Dr /dT
+
+5. Series and Parallel Combinations of Resistors:
+- Resistors in series: Total resistance (Rtotal ) is the sum of individual resistances.
+- Resistors in parallel: The reciprocal of total resistance (1/Rtotal) is the sum of the reciprocals of individual resistances.
+
+6. Electric Power and Energy:
+- Electric power (P) is the rate of doing work or delivering energy: 
+P = IV = I^2R = V^2/R
+- Energy consumed (W) is the product of power and time: (W = Pt).
+
+7. Cells and EMF:
+- Electromotive Force (EMF) is the potential difference across the terminals of a cell when it's not connected to a circuit.
+- Internal resistance (r) of a cell represents the opposition to current flow within the cell.
+
+8. Kirchhoff's Laws:
+- Kirchhoff's First Law (Node Law): The sum of currents entering a junction (node) in a circuit equals the sum of currents leaving the junction.
+- Kirchhoff's Second Law (Loop Law): The sum of electromotive forces (EMFs) and potential drops in a closed loop of a circuit is zero.
+
+9. Wheatstone Bridge:
+- A Wheatstone Bridge is used to measure unknown resistances by comparing them to known resistances in a balanced condition.
+
+10. Potentiometer:
+- A potentiometer is a device used to measure potential difference and electromotive force accurately.
+- It works on the principle of comparing the unknown voltage with a known voltage across a length of uniform wire.
+
+These are some of the important key points from the "Current Electricity" chapter.
